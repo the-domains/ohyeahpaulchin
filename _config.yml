@@ -1,20 +1,8 @@
-title: Paul Chin
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.4255319
-favicon: null
 name: ohyeahpaulchin
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.0107
+typography_spectrum: 0.7829787
+title: Paul Chin
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6875
-  saturation: 0.1875
   brandColors:
     - '#02121a'
     - '#faf7f2'
     - '#b1b4ad'
     - '#808a8b'
     - '#7c605d'
+  brandStrength: 0.6875
   lightness: 0.625
+  saturation: 0.1875
   rhythmicContrast: 0.5
-typography_spectrum: 0.7829787
+purpose: []
