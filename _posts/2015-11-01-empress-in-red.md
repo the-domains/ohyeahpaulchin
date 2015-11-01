@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-01T19:26:56.892Z'
-dateModified: '2015-11-01T19:26:33.392Z'
+datePublished: '2015-11-01T19:28:32.194Z'
+dateModified: '2015-11-01T19:28:31.460Z'
 title: Empress in Red
+sourcePath: _posts/2015-11-01-empress-in-red.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-01-empress-in-red.md
-published: true
 url: empress-in-red/index.html
 _type: Article
 
