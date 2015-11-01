@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-01T23:44:56.427Z'
-dateModified: '2015-11-01T23:44:53.360Z'
+datePublished: '2015-11-01T23:46:03.057Z'
+dateModified: '2015-11-01T23:45:59.782Z'
 title: Empress in Red
 sourcePath: _posts/2015-11-01-empress-in-red.md
 published: true
