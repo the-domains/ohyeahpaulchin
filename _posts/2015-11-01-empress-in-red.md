@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-01T23:28:58.208Z'
-dateModified: '2015-11-01T23:28:53.324Z'
+datePublished: '2015-11-01T23:44:56.427Z'
+dateModified: '2015-11-01T23:44:53.360Z'
 title: Empress in Red
 sourcePath: _posts/2015-11-01-empress-in-red.md
 published: true
@@ -21,6 +21,6 @@ url: empress-in-red/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d569109-c7cb-46d3-9929-0c596ce3d3ef.jpg)
+![Empress in Red (2015)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d569109-c7cb-46d3-9929-0c596ce3d3ef.jpg)
 
-The photo that inspired the album.
+After a long afternoon shooting with Maia, I found this shot amongst my imported photos.  It's a super strong image.
