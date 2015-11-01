@@ -1,7 +1,7 @@
 name: ohyeahpaulchin
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.689471716992557
+layout_spectrum: 0.93588
+typography_spectrum: 0.89179
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#7c605d'
   brandStrength: 0.6875
   lightness: 0.625
-  saturation: 0.75
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
